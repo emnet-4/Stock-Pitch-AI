@@ -224,6 +224,5 @@ Stock Pitch AI/
 
 ---
 
-**Built with ❤️ for the finance community**
+**Built for fun. Finace Bros it might not be accurate !!
 
-*Professional stock analysis made simple and accessible*
